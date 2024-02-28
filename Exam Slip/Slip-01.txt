@@ -1,0 +1,11 @@
+A) Perform foor printing using 10 Google Hacking Commands.
+
+B) Archive information from "tutorialpoint.com" atleast 2 snapshort from year 2010 for following pages
+    - Home Page
+    - Career
+    - About Us
+    - Privacy Policy
+
+C) How Wireshark works? Explain with steps to 
+    - Capture and analyse packets
+    - Apply filters and analyse packets

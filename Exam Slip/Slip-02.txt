@@ -1,0 +1,8 @@
+A) Perform encryption and decryption of text by using cryptool 2. Perform the following:
+    - Ceaser Cipher
+    - Substitution Cipher
+    - Playfair Cipher
+
+B) Create a program to perform Dictionary attack.
+
+C) Create the keylogger using python program.
